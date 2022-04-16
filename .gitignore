@@ -1,0 +1,10 @@
+*.o
+*.obj
+*.exe
+*.pyz
+*.pyc
+
+output/
+srcw/PySimpleGUI*
+srcw/bin
+python-3.*
